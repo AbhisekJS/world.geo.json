@@ -534,12 +534,6 @@
           },
           {
             "type": "Polygon",
-            "arcs": [[-191, 382, -189, -117, -188, 383, -77, 384, 385]],
-            "id": "IND",
-            "properties": { "name": "India" }
-          },
-          {
-            "type": "Polygon",
             "arcs": [[386, -316]],
             "id": "IRL",
             "properties": { "name": "Ireland" }
